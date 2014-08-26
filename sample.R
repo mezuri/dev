@@ -1,1 +1,1 @@
-write("successfully completed", file = "tmp/success_flag")
+write("successfully completed", file = "success_flag")
