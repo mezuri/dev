@@ -1,4 +1,4 @@
-FROM mezuri
+FROM mezuri/dev:base
 MAINTAINER Andreas Kipf, kipf@cs.berkeley.edu
 
 # Install R
