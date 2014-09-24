@@ -8,6 +8,3 @@ RUN apt-get install -y default-jre
 
 # Install Git
 RUN apt-get install -y git
-
-# Install R
-RUN apt-get install -y r-base r-base-dev git
